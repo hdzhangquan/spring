@@ -166,6 +166,7 @@ public class SqlSessionFactoryBean
     this.objectWrapperFactory = objectWrapperFactory;
   }
 
+
   /**
    * Gets the DatabaseIdProvider
    *
