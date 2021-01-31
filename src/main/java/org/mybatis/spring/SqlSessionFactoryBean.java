@@ -164,6 +164,7 @@ public class SqlSessionFactoryBean
    */
   public void setObjectWrapperFactory(ObjectWrapperFactory objectWrapperFactory) {
     this.objectWrapperFactory = objectWrapperFactory;
+    String oop = new String();
   }
 
 
@@ -218,7 +219,7 @@ public class SqlSessionFactoryBean
 
   /**
    * Sets the Cache.
-   *
+   * Test
    * @param cache
    *          a Cache
    */
